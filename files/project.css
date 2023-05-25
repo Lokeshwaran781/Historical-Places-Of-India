@@ -51,6 +51,7 @@ header h1{
 }
 .Content p{
     font-size: 20px;
+    text-align: justify;
 }
 .photo img{
     width: 350px;
@@ -102,7 +103,7 @@ footer{
         height: 275px;
     }
     .photo{
-        border-right: 1px solid black;
+        border-right: 0px solid black;
     }
     .box{
         background-color: lavender;
