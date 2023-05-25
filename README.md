@@ -1,1 +1,1 @@
-# HistoricalPlaces
+Minor Project for Academor internship
